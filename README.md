@@ -1,0 +1,2 @@
+# Shadowrocket
+Lazy Config
